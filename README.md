@@ -5,7 +5,6 @@ Welcome to my GitHub repository showcasing a deep learning experiment on Speech 
 ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOoK_1HnzLOzSv0oavpHVvoDw2xSYYYK-iYY-a36c6cAtp6oMULFmsOBUPYLlAQmNqluU&usqp=CAU)
 ![Alt Text](https://camo.githubusercontent.com/ec0e2c310ef7bc717ed94626e8b74f02b5367e16011697d382f45bf996d4158a/68747470733a2f2f692e696d6775722e636f6d2f663154717669542e6a706567)
 ![Alt Text](https://www.mdpi.com/sensors/sensors-21-05554/article_deploy/html/images/sensors-21-05554-g001.png)
-![Alt Text](https://www.researchgate.net/profile/Rohini-Basak/publication/334033817/figure/fig1/AS:793830701936640@1566275396628/Emotion-detection-process-flow.ppm)
 ![Alt Text](https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11042-020-09874-7/MediaObjects/11042_2020_9874_Fig1_HTML.png)
 
 ## 📂 Dataset Preparation
