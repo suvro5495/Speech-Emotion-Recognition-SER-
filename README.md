@@ -20,7 +20,7 @@ These datasets provide a diverse collection of speech samples labeled with diffe
 
 ## 🔬 Feature Extraction
 
-One of the crucial steps in speech processing is feature extraction. We utilized the powerful `librosa` library to compute **Mel-Frequency Cepstral Coefficients (MFCCs)** from the audio data. MFCCs are widely used and effective features for speech recognition tasks.
+One of the crucial steps in speech processing is feature extraction. I utilized the powerful `librosa` library to compute **Mel-Frequency Cepstral Coefficients (MFCCs)** from the audio data. MFCCs are widely used and effective features for speech recognition tasks.
 
 ```python
 import librosa
@@ -61,7 +61,7 @@ with strategy.scope():
     history = model.fit(x_train, y_train, ...)
 ```
 
-To assess the model's performance, we calculated accuracy scores for both training and testing data, separately for mixed-gender, female, and male models. Our models achieved impressive results, with the mixed-gender model achieving around **80% testing accuracy**, and the gender-specific models (female and male) achieving around **75% testing accuracy**.
+To assess the model's performance, I calculated accuracy scores for both training and testing data, separately for mixed-gender, female, and male models. These models achieved impressive results, with the mixed-gender model achieving around **80% testing accuracy**, and the gender-specific models (female and male) achieving around **75% testing accuracy**.
 
 ```python
 score = model.evaluate(x_test, y_test, verbose=0)
